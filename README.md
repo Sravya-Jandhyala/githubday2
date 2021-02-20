@@ -28,8 +28,10 @@
 ![Just add magic](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTLkP7NPTgj1a81Ld59w-Uelxwudlk_wcDHw&usqp=CAU)  
 [Image link](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTLkP7NPTgj1a81Ld59w-Uelxwudlk_wcDHw&usqp=CAU)
 ***Inserting a table***
+
 |Name|Branch|Section|Roll Number|
 |-------------|----|--|-------------|
 |J.Sravya sri|CSE|3|198W1A05F0|
+
 -------------------------------------------------
 :kissing_heart:
